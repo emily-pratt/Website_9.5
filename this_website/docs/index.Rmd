@@ -1,0 +1,5 @@
+---
+title: "My Website"
+---
+
+Welcome to my website! Navigate to the About tab to learn more about me!
